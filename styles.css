@@ -48,7 +48,7 @@ body::before {
     padding-top: 0.4vh;
     padding-right: 1.6vw;
     padding-bottom: 1vw;
-    filter: drop-shadow(3px 0px 0px #f4f4f4);
+    filter: drop-shadow(1px -0px 0.3px #f4f4f4) drop-shadow(-1px 0px 0.3px #f4f4f4) drop-shadow(0px 1px 0.3px #f4f4f4) drop-shadow(0px -1px 0.3px #f4f4f4);
 }
 
 h1 {
@@ -59,7 +59,7 @@ h1 {
     letter-spacing: -1.5px;
     margin: 0;
     color: var(--gris-oscuro);
-    filter: drop-shadow(3px 0px 0px #f4f4f4);
+    filter: drop-shadow(1px -0px 0.3px #f4f4f4) drop-shadow(-1px 0px 0.3px #f4f4f4) drop-shadow(0px 1px 0.3px #f4f4f4) drop-shadow(0px -1px 0.3px #f4f4f4);
 }
 
 h2 {
@@ -67,7 +67,7 @@ h2 {
     margin: 0.45rem 0 0 0.5%;
     font-weight: 600;
     color: var(--gris-medio);
-    filter: drop-shadow(3px 0px 0px #f4f4f4);
+    filter: drop-shadow(1px -0px 0.3px #f4f4f4) drop-shadow(-1px 0px 0.3px #f4f4f4) drop-shadow(0px 1px 0.3px #f4f4f4) drop-shadow(0px -1px 0.3px #f4f4f4);
 }
 
 #status-box {
