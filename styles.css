@@ -159,7 +159,7 @@ tr:hover td {
 
 /* 1er lugar */
 tr:nth-child(2) {
-    background: linear-gradient(90deg, #FFF3C4, #FFE082) !important;
+    background: linear-gradient(90deg, #FFF3C4, #FFD040) !important;
     font-weight: 700;
     color: #4A3B00;
 }
